@@ -1,0 +1,2 @@
+Experiment,ChunkSize,TopK,Faithfulness,AnswerRelevancy
+Baseline,500,8,0.5984920634920634,0.6773221424747887

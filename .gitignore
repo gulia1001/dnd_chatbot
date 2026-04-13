@@ -1,0 +1,23 @@
+# Large Database Files
+vdb_storage/
+chroma_db/
+*.pkl
+*.faiss
+
+# Environments
+dnd-env/
+venv/
+.env
+
+# Javascript Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build Artefacts
+frontend/dist/
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
